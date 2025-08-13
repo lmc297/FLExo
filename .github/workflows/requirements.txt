@@ -1,0 +1,23 @@
+pip 
+coverage[toml]
+
+build
+setuptools >=39.2
+wheel >=0.30
+
+biopython ~=1.73
+importlib-metadata >=4.0      ; python_version < '3.10'
+importlib-resources >=5.7     ; python_version < '3.11'
+numpy >=1.0,<3.0
+polars ~=1.0
+psutil ~=7.0
+pyhmmer ~=0.11.0
+pyrodigal ~=3.0
+rich >=12.4.0
+scikit-learn ~=1.0
+scipy ~=1.4
+sklearn-crfsuite ~=0.5.0
+
+statsmodels >=0.13,<0.15
+rich-argparse ~=1.0
+argcomplete ~=3.0

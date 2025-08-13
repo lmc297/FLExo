@@ -34,6 +34,10 @@ dependencies = [
     "importlib-resources >=5.7     ; python_version < '3.11'",
 ]
 
+[project.urls]
+"Repository" = "https://github.com/lmc297/FLExo"
+"Bug Tracker" = "https://github.com/lmc297/FLExo/issues"
+
 [project.entry-points.console_scripts]
 flexo = "flexo.cli:main"
 
@@ -41,8 +45,7 @@ flexo = "flexo.cli:main"
 include-package-data = true
 
 [tool.setuptools.packages.find]
-namespaces = false
-include = ["flexo"]
+namespaces = true
 exclude = ["docs*", "tests*"]
 
 [tool.setuptools.dynamic]

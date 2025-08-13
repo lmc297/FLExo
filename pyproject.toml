@@ -29,7 +29,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dependencies = [
-    "gecco ~=0.10.0a2",
+    "gecco ~=0.10.0a3",
     "importlib-metadata >=4.0      ; python_version < '3.10'",
     "importlib-resources >=5.7     ; python_version < '3.11'",
 ]

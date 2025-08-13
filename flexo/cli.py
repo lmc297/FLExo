@@ -28,6 +28,16 @@ def main(
         crf_type=ClusterCRF,
         classifier_type=TypeClassifier,
         default_hmms=embedded_hmms,
+        defaults={
+            "--c1": 1.0,
+            "--c2": 0.0,
+            "--e-filter": None,
+            "--p-filter": 1e-9,
+            "--window-size": 10,
+            "--feature-type": "protein",
+            "--select": 0.05,
+            "--threshold": 0.5,
+        }
     )
 
 

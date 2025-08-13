@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include CITATION.cff
+include flexo/py.typed
+
+recursive-include flexo/crf *.pkl *.pkl.md5
+recursive-include flexo/hmmer *.ini
+recursive-include flexo/types *.tsv *.npz

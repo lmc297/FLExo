@@ -1,0 +1,50 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+    'setuptools >=39.2', 
+    'rich >=12.4.0', 
+    'pyhmmer ~=0.11.0', 
+    'wheel >=0.30'
+]
+
+[project]
+name = "flexo"
+dynamic = ["version"]
+description = "Fast Locator for Exotoxins."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Laura M. Carroll", email = "lmc297@cornell.edu" },
+  { name = "Martin Larralde", email = "martin.larralde@embl.de" },
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+  "Operating System :: POSIX",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Bio-Informatics",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+  "Typing :: Typed",
+]
+dependencies = [
+    "gecco ~=0.10.0a2",
+    "importlib-metadata >=4.0      ; python_version < '3.10'",
+    "importlib-resources >=5.7     ; python_version < '3.11'",
+]
+
+[project.entry-points.console_scripts]
+flexo = "flexo.cli:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+namespaces = false
+include = ["flexo"]
+exclude = ["docs*", "tests*"]
+
+[tool.setuptools.dynamic]
+version = {attr = "flexo.__version__"}
+

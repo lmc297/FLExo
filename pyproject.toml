@@ -8,7 +8,7 @@ requires = [
 ]
 
 [project]
-name = "flexo"
+name = "flexo-tool"
 dynamic = ["version"]
 description = "Fast Locator for Exotoxins."
 readme = "README.md"

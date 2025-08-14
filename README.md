@@ -1,4 +1,6 @@
-![FLExo logo](./assets/flexo_logo_v1.svg)
+<p align="center">
+    <img src="./assets/flexo_logo_v1.svg" />
+</p>
 
 # FLExo
 

@@ -1,3 +1,5 @@
+![FLExo logo](./assets/flexo_logo_v1.svg)
+
 # FLExo
 
 Scalable exotoxin annotation using machine learning (ML)

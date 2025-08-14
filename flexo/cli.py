@@ -37,6 +37,7 @@ def main(
             "--feature-type": "protein",
             "--select": 0.05,
             "--threshold": 0.5,
+            "--cds": 1,
         }
     )
 

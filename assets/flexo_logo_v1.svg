@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="117.43636mm"
-   height="32.764217mm"
-   viewBox="0 0 117.43636 32.764217"
+   width="122.77452mm"
+   height="32.771454mm"
+   viewBox="0 0 122.77452 32.771453"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="flexo_logo_v1.svg">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="flexo_logo_v1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -68,8 +68,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57335304"
-     inkscape:cx="136.22496"
-     inkscape:cy="261.79183"
+     inkscape:cx="130.80946"
+     inkscape:cy="259.87479"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -77,12 +77,15 @@
      inkscape:window-width="1252"
      inkscape:window-height="943"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="37"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -99,10 +102,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.620088,-12.813411)">
+     transform="translate(-45.90528,-13.210113)">
     <text
        xml:space="preserve"
-       style="font-size:10.58329999999999949px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:url(#linearGradient862);fill-opacity:1.0;stroke:url(#linearGradient854);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:url(#linearGradient862);fill-opacity:1;stroke:url(#linearGradient854);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="41.577381"
        y="45.357143"
        id="text835"><tspan
@@ -110,6 +113,6 @@
          id="tspan833"
          x="41.577381"
          y="45.357143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.09720000000000084px;font-family:Exo;-inkscape-font-specification:'Exo, @wght=601';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 601;fill:url(#linearGradient862);fill-opacity:1.0;stroke:url(#linearGradient854);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">FLExo</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.0972px;font-family:Exo;-inkscape-font-specification:'Exo, @wght=601';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 601;fill:url(#linearGradient862);fill-opacity:1;stroke:url(#linearGradient854);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">FLExo</tspan></text>
   </g>
 </svg>

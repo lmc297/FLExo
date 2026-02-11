@@ -33,11 +33,11 @@ def main(
             "--c2": 0.0,
             "--e-filter": None,
             "--p-filter": 1e-9,
-            "--window-size": 10,
+            "--window-size": 20,
             "--feature-type": "protein",
-            "--select": 0.05,
-            "--threshold": 0.5,
-            "--cds": 1,
+            "--select": 0.75,
+            "--threshold": 0.1,
+            "--cds": 2,
         }
     )
 

@@ -2,11 +2,11 @@
 
 # FLExo
 
-Scalable exotoxin annotation using machine learning (ML)
+Flexible exotoxin annotation using machine learning (ML)
 
 # 🤖 Overview
 
-FLExo (<ins>F</ins>ast <ins>L</ins>ocator for <ins>Exo</ins>toxins) uses a conditional random field (CRF) to identify exotoxin and exotoxin-associated genes in prokaryotic (meta)genomes.
+FLExo (<ins>F</ins>lexible <ins>L</ins>ocator for <ins>Exo</ins>toxins) uses a conditional random field (CRF) to identify exotoxin and exotoxin-associated genes in prokaryotic (meta)genomes.
 
 
 # 🔍 Quickstart

@@ -11,7 +11,7 @@ FLExo (<ins>F</ins>lexible <ins>L</ins>ocator for <ins>Exo</ins>toxins) uses a c
 
 # 🔍 Quickstart
 
-To detect exotoxins and exotoxin-associated genes in an assembled prokaryotic (meta)genome:
+To detect multi-gene exotoxins and exotoxin-associated genes in an assembled prokaryotic (meta)genome:
 ```
 flexo run -g [fasta] -o [output directory] [options...]
 ``` 

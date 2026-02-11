@@ -2,7 +2,7 @@
 
 # FLExo
 
-Flexible exotoxin annotation using machine learning (ML)
+Flexible multi-gene exotoxin annotation using machine learning (ML)
 
 # 🤖 Overview
 

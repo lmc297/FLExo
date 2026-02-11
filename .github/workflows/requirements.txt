@@ -6,8 +6,8 @@ setuptools >=39.2
 wheel >=0.30
 
 biopython ~=1.73
-importlib-metadata >=4.0      ; python_version < '3.11'
-importlib-resources >=5.7     ; python_version < '3.11'
+importlib-metadata >=4.0      ; python_version < '3.12'
+importlib-resources >=5.7     ; python_version < '3.12'
 numpy >=1.0,<3.0
 polars ~=1.0
 psutil ~=7.0
